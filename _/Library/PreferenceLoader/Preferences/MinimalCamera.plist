@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = MinimalCamera;
+	cell = PSLinkCell;
+	detail = MinimalCameraListController;
+	icon = MinimalCamera.png;
+	isController = 1;
+	label = MinimalCamera;
+    };
+}

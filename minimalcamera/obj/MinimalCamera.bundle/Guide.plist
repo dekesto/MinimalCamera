@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+	<dict>
+	    <key>cell</key>
+    	<string>PSStaticTextCell</string>
+    	<key>cellClass</key>
+    	<string>PFHeaderCell</string>
+    	<key>background</key>
+    	<string>#ffffff</string>
+    	<key>image</key>
+    	<string>/Library/PreferenceBundles/MinimalCamera.bundle/activate@2x.png</string>
+    	<key>height</key>
+    	<integer>100</integer>
+    </dict>
+    	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+    <dict>
+	    <key>cell</key>
+    	<string>PSStaticTextCell</string>
+    	<key>cellClass</key>
+    	<string>PFHeaderCell</string>
+    	<key>background</key>
+    	<string>#ffffff</string>
+    	<key>image</key>
+    	<string>/Library/PreferenceBundles/MinimalCamera.bundle/take@2x.png</string>
+    	<key>height</key>
+    	<integer>100</integer>
+    </dict>
+	</array>
+	<key>title</key>
+	<string>How-To</string>
+</dict>
+</plist>

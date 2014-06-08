@@ -1,0 +1,10 @@
+Package: com.dekesto.minimalcamera
+Name: MinimalCamera
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7)
+Architecture: iphoneos-arm
+Description: Camera tweak for the minimalist
+Maintainer: Dekesto
+Author: Dekesto
+Section: Tweaks
+Version: 1.1.0-1
+Installed-Size: 452
